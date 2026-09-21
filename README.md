@@ -21,23 +21,14 @@
 * **Стаж:** Пишу код, пока за окном сгущаются тучи
 
 ### Технологии и Стек
-<p align="left">
-  <img src="https://simpleicons.org" alt="Python" width="40" height="40" style="background: black; padding: 5px; border-radius: 4px;" /> &nbsp;
-  <img src="https://simpleicons.org" alt="C#" width="40" height="40" style="background: black; padding: 5px; border-radius: 4px;" /> &nbsp;
-  <img src="https://simpleicons.org" alt="C++" width="40" height="40" style="background: black; padding: 5px; border-radius: 4px;" /> &nbsp;
-  <img src="https://simpleicons.org" alt="Flutter" width="40" height="40" style="background: black; padding: 5px; border-radius: 4px;" />
-</p>
+```text
+[ Python ]   [ C# ]   [ C++ ]   [ Flutter ]
+```
 
 ### Текущая активность
 - **В процессе:** Оптимизация легаси-кода (оживляю мертвецов)
 - **Изучаю:** Внутреннее устройство фреймворков и низкоуровневые нюансы
 - **Ищу команду:** Для создания open-source решений в сфере приватности
-
-### Цифровая статистика
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Top Languages" width="48%"/>
-</p>
 
 ---
 <p align="center"><i>"Свет горит для всех, но код пишется в темноте."</i></p>
