@@ -22,16 +22,17 @@
 
 ### Технологии и Стек
 <p align="left">
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="C#"/>
-  <img src="https://shields.io" alt="C++"/>
-  <img src="https://shields.io" alt="Flutter"/>
+  <img src="https://simpleicons.org" alt="Python" width="40" height="40" style="background: black; padding: 5px; border-radius: 4px;" /> &nbsp;
+  <img src="https://simpleicons.org" alt="C#" width="40" height="40" style="background: black; padding: 5px; border-radius: 4px;" /> &nbsp;
+  <img src="https://simpleicons.org" alt="C++" width="40" height="40" style="background: black; padding: 5px; border-radius: 4px;" /> &nbsp;
+  <img src="https://simpleicons.org" alt="Flutter" width="40" height="40" style="background: black; padding: 5px; border-radius: 4px;" />
 </p>
 
 ### Текущая активность
 - **В процессе:** Оптимизация легаси-кода (оживляю мертвецов)
 - **Изучаю:** Внутреннее устройство фреймворков и низкоуровневые нюансы
 - **Ищу команду:** Для создания open-source решений в сфере приватности
+
 ### Цифровая статистика
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
