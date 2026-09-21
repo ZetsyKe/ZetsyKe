@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🫀 Приветствую в цифровом склепе
 
-<!--
-**ZetsyKe/ZetsyKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+ ______       _                _  __
 
-Here are some ideas to get you started:
+|___  /      | |              | |/ /
+   / /  ___ _| |_ ___ _   _   | ' / 
+  / /  / _ \_   _/ __| | | |  |  <  
+ / /__|  __/ | |_\\__ \ |_| |  | . \ 
+/______\___|  \__|___/\__, |  |_|\_\
+                       __/ |        
+                      |___/         
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕯️ Обо мне
+Разрабатываю архитектуру, скрытую в темноте бэкенда и кроссплатформенного кода. Сочетаю строгую системную логику с гибкими интерфейсами.
+
+* 🛠️ **Специализация:** Разработчик ПО / Программист
+* 🌙 **Фокус:** Написание чистого кода, алгоритмы и оптимизация архитектуры приложений
+* ⏳ **Стаж:** Пишу код, пока за окном сгущаются тучи
+
+### ⛓️ Технологии & Стек
+<p align="left">
+  <img src="https://shields.io" alt="Python"/>
+  <img src="https://shields.io" alt="C#"/>
+  <img src="https://shields.io" alt="C++"/>
+  <img src="https://shields.io" alt="Flutter"/>
+</p>
+
+### 🌑 Текущая активность
+- ⚡ **В процессе:** Оптимизация легаси-кода (оживляю мертвецов)
+- 📖 **Изучаю:** Внутреннее устройство фреймворков и низкоуровневые нюансы
+- 🛠️ **Ищу команду:** Для создания open-source решений в сфере приватности
+
+### 📊 Цифровая статистика
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
+  <img src="https://vercel.app" alt="Top Languages" width="48%"/>
+</p>
+
+---
+<p align="center"><i>"Свет горит для всех, но код пишется в темноте."</i></p>
